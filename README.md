@@ -30,7 +30,7 @@ Projeto desenvolvido em ambiente de laboratório com evidências registradas por
 ## Evidências
 
 ### VPC criada
-![VPC](./vpc-overview.png)
+![VPC](./vpc-overview.png.png)
 
 ### Subnets públicas
 ![Public Subnet 1](./public-subnet-1.png.png)
